@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Takeshwar Verma</h1>
 <h3 align="center">Aspiring Full-Stack Engineer | CDAC Scholar</h3>
 
-- 💬 Ask me about **Currently at **CDAC**, I'm bridging the gap between: - **Frontend Magic:** React, Redux, JavaScript (ES6+), HTML/CSS - **Backend Power:** Spring Boot, .NET, Java - **CS Fundamentals:** C++, Algorithms, System Design**
+**Currently at **CDAC**, I'm bridging the gap between: - 
+**Frontend Magic:** React, Redux, JavaScript (ES6+), HTML/CSS - 
+**Backend Power:** Spring Boot, .NET, Java - 
+**CS Fundamentals:** C++, Algorithms, System Design**
 
 - 📫 How to reach me **takeshwarverma132@gmail.com**
 
